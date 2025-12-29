@@ -1,0 +1,173 @@
+[2025-12-29 05:43] BOT: I have set this up the way you asked.
+
+New meeting created:
+- Title: Meeting with Martin  
+- Date: Friday, 9 January 2026  
+- Time: 16:00 to 16:30 (GMT+5:30)  
+- Attendee: martinluther583@gmail.com  
+
+I tried to find and change the Friday meeting with Dustin, but I could not locate that specific event to edit or cancel it.
+
+Right now, on your calendar I can still see:
+- Catch-up and planning with Dustin on Sunday, 11 January 2026, 16:00 to 16:30 (GMT+5:30)
+
+Tell me what you prefer and I will do it:
+1) Cancel all upcoming meetings with Dustin, or  
+2) Cancel only the Sunday 11 January meeting, or  
+3) Leave the Dustin events as they are and only keep the new meeting with Martin.
+[2025-12-29 05:44] USER: Show me PDFs in Drive from last month.
+[2025-12-29 05:45] BOT: I checked your Google Drive and did not find any PDF files that were last modified between 2025-11-01 and 2025-11-30 in My Drive (not counting items in Trash).
+
+If you want, I can try one of these options next:
+- Search a wider range, like the last 3 months or the entire year  
+- Include PDFs that were shared with you (not just the ones you own)  
+- Look for PDFs by keyword (for example, invoices, tickets, GST, etc.)
+
+Tell me which option you prefer, or give me a specific date range or keyword, and I will run the search again.
+[2025-12-29 05:46] USER: so just show me all pdfs that I have in my drive
+[2025-12-29 05:46] BOT: I checked your Google Drive for all PDF files and did not find any PDFs that are not in Trash.
+
+Details:
+- Search: all files with mimeType = application/pdf
+- Scope: your Drive (including items shared with you), excluding Trash
+- Results: none returned
+
+This likely means:
+- You currently do not have any active PDF files in Drive, or
+- Any PDFs you had may have been deleted or moved to Trash, or
+- They might be in a shared drive or another Google account.
+
+If you tell me, I can next:
+1) Search again including items in Trash, or  
+2) Search within a specific folder or shared drive (for example, "GST docs", "Invoices", etc.), or  
+3) Look for another file type (like Word docs, images, or spreadsheets) instead.
+[2025-12-29 05:47] USER: Show me PDFs in Drive from past 2 years
+[2025-12-29 05:47] BOT: I checked again for you.
+
+In the past 2 years (from 2023-12-29 to 2025-12-29), there are no PDF files in your Google Drive outside of Trash. This is consistent with the earlier searches where no active PDFs were found at all.
+
+Next, I can do any of these:
+
+1) Include Trash  
+   - Search for PDFs that may have been deleted and are now in Trash.
+
+2) Search all time (no date filter)  
+   - Just in case there are very old PDFs that fall outside the last 2 years.
+
+3) Search within a specific folder  
+   - For example, if you know you kept them in a folder like "Invoices," "Documents," or similar.
+
+Tell me which option you prefer (1, 2, or 3, and the folder name if you choose 3), and I will run that search.
+[2025-12-29 05:47] USER: anyways give me any document that I have
+[2025-12-29 05:48] BOT: I checked your Google Drive for any active documents of any type (Docs, Sheets, Slides, PDFs, etc., excluding Trash), and there are currently none found.
+
+Most likely possibilities:
+- The files were deleted and are now in Trash, or  
+- They are in another Google account, a shared drive I cannot see, or only in email attachments / on your device.
+
+I can do this next, you just pick one:
+
+1) Search in Trash  
+   - I will look for any documents that are currently in Trash.
+
+2) Targeted search  
+   - Search by a keyword in the name (for example: "invoice", "GST", "resume")  
+   - Or search by a specific file type (for example: only Google Docs or only Sheets).
+
+Reply with either:
+- "Search Trash", or  
+- A keyword and/or file type you want me to look for.
+[2025-12-29 05:56] USER: cancel my meeting with dustin which is at next week friday
+[2025-12-29 05:57] BOT: Your meeting with Dustin next week Friday has been cancelled.
+
+Details:
+- Event: "Meeting with Dustin"
+- Date: Friday, 9 January 2026
+- Time: 16:00 to 16:30 (GMT+5:30)
+- Status: Event deleted and invite cancelled
+
+Your Sunday event:
+- "Catch-up and planning with Dustin"  
+- Sunday, 11 January 2026, 16:00 to 16:30 (GMT+5:30)
+
+is still on your calendar.
+
+Tell me if you also want to cancel the Sunday meeting with Dustin or keep it as is.
+[2025-12-29 05:57] USER: search for all events in next week from my calender
+[2025-12-29 05:58] BOT: Here is everything on your calendar for next week (2026-01-05 to 2026-01-11):
+
+1) Flight to Bengaluru (AI 2803)  
+   - When: Thursday, 8 Jan 2026, 06:35 to 09:25 (GMT+5:30)  
+   - From: New Delhi DEL  
+   - Attendee: shoaibkhancomputer@gmail.com  
+   - Event link: https://www.google.com/calendar/event?eid=M3Y2dWhxdm43MG4xODdmMWZjcHUyaDRzbm8gc2hvYWlia2hhbmNvbXB1dGVyQG0  
+   - Event ID: 3v6uhqvn70n187f1fcpu2h4sno  
+
+2) Meeting with Martin  
+   - When: Friday, 9 Jan 2026, 16:00 to 16:30 (GMT+5:30)  
+   - Attendee: martinluther583@gmail.com  
+   - Event link: https://www.google.com/calendar/event?eid=OWVrMDQyMXA0cG1xZXUxZW12Z3ExMnNlaTggc2hvYWlia2hhbmNvbXB1dGVyQG0  
+   - Event ID: 9ek0421p4pmqeu1emvgq12sei8  
+
+3) Catch-up and planning with Dustin  
+   - When: Sunday, 11 Jan 2026, 16:00 to 16:30 (GMT+5:30)  
+   - Attendee: dustybun009@gmail.com  
+   - Event link: https://www.google.com/calendar/event?eid=cTZ2aW40NnZ1YjUxNXBjaHFyNTNnYXB2ZTQgc2hvYWlia2hhbmNvbXB1dGVyQG0  
+   - Event ID: q6vin46vub515pchqr53gapve4  
+
+Your Friday meeting with Dustin was already cancelled, which is why it does not appear here.
+
+If you want to change or cancel any of these, tell me the event ID (or just describe the event and what you want done) and I will update your calendar.
+[2025-12-29 05:59] USER: Show me pdfs from todays to last 3 months.
+[2025-12-29 06:00] BOT: Here are your PDFs from today back to the last 3 months (2025-09-29 to 2025-12-29) in your Google Drive (excluding Trash):
+
+1) Shakti_tamrakar_CV.pdf  
+   - Last modified: 2025-12-28  
+   - Owner: shaktibhaidon@gmail.com  
+   - Link: https://drive.google.com/file/d/16GrolJzIqL84nOoN2He06GaNTy6397ej/view?usp=drivesdk  
+
+2) 05_Working_Capital_Calculation.pdf  
+   - Last modified: 2025-12-25  
+   - Owner: shoaibkhancomputer@gmail.com  
+   - Link: https://drive.google.com/file/d/1L-32_GihUy_LVjm70gXD5105CKGi__JW/view?usp=drivesdk  
+
+3) 820410455_ivuxxxxx3e_(2024-25).pdf  
+   - Last modified: 2025-10-13  
+   - Owner: shoaibkhancomputer@gmail.com  
+   - Link: https://drive.google.com/file/d/1KhR99ZXveASE16Y73sMwpJQkbCevvRFe/view?usp=drivesdk  
+
+If you tell me what you want to do with these, I can, for example, move them into a folder, share any of them with someone, or get details for a specific file.
+[2025-12-29 06:02] USER: Show me pdfs from todays to last 3 months.
+[2025-12-29 06:02] BOT: Here are your PDFs from today back 3 months (2025-09-29 to 2025-12-29), excluding Trash:
+
+1) Shakti_tamrakar_CV.pdf  
+   - Last modified: 2025-12-28  
+   - Owner: shaktibhaidon@gmail.com  
+   - Link: https://drive.google.com/file/d/16GrolJzIqL84nOoN2He06GaNTy6397ej/view?usp=drivesdk  
+
+2) 05_Working_Capital_Calculation.pdf  
+   - Last modified: 2025-12-25  
+   - Owner: shoaibkhancomputer@gmail.com  
+   - Link: https://drive.google.com/file/d/1L-32_GihUy_LVjm70gXD5105CKGi__JW/view?usp=drivesdk  
+
+3) 820410455_ivuxxxxx3e_(2024-25).pdf  
+   - Last modified: 2025-10-13  
+   - Owner: shoaibkhancomputer@gmail.com  
+   - Link: https://drive.google.com/file/d/1KhR99ZXveASE16Y73sMwpJQkbCevvRFe/view?usp=drivesdk  
+
+Tell me if you want to:
+- Move any of these to a folder (and which folder), or  
+- Share any of them (with which email and what access: view or edit).
+[2025-12-29 06:03] USER: nice, I want you to share 2 file to mr dustin
+[2025-12-29 06:03] BOT: You have 3 recent PDFs in Drive, and you asked to share 2 of them with Mr Dustin (dustybun009@gmail.com).
+
+Here they are:
+
+1) Shakti_tamrakar_CV.pdf  
+2) 05_Working_Capital_Calculation.pdf  
+3) 820410455_ivuxxxxx3e_(2024-25).pdf  
+
+Tell me which two you want to share (for example: “1 and 2” or “CV and 05_Working_Capital”), and I will share them with Mr Dustin with view access.  
+
+If you want him to be able to edit instead of just view, mention that too.
+[2025-12-29 06:03] USER: 2.05_Working_Capital_Calculation.pdf
